@@ -1,0 +1,5 @@
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features.Tests\obj\Debug\netcoreapp3.1\Features.Tests.csproj.AssemblyReference.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features.Tests\obj\Debug\netcoreapp3.1\Features.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features.Tests\obj\Debug\netcoreapp3.1\Features.Tests.AssemblyInfoInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features.Tests\obj\Debug\netcoreapp3.1\Features.Tests.AssemblyInfo.cs
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features.Tests\obj\Debug\netcoreapp3.1\Features.Tests.csproj.CoreCompileInputs.cache

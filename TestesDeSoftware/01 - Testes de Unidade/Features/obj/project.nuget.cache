@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVTuwzAw5ybMrPEdeGf4ph/3Z9tCe7rLpMxSKGL+j8ThpjKKi57q3oJYPmIFYKE+/fe5uFgDM0NK0MSRpPb4Ww==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\dominando-testes-software\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
