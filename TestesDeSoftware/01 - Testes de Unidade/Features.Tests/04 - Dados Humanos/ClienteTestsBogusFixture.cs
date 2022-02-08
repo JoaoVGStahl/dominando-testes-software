@@ -19,12 +19,12 @@ namespace Features.Tests
             return GerarClientes(1, true).FirstOrDefault();
         }
 
-        public IEnumerable<Cliente> ObterClientesVariados()
+        public IEnumerable<Cliente> ObterClientesVariados(int quantidade)
         {
             var clientes = new List<Cliente>();
 
-            clientes.AddRange(GerarClientes(50, true).ToList());
-            clientes.AddRange(GerarClientes(50, false).ToList());
+            clientes.AddRange(GerarClientes(quantidade, true).ToList());
+            clientes.AddRange(GerarClientes(quantidade, false).ToList());
 
             return clientes;
         }
