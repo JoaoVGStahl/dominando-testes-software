@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2B7NX9+8t4iQXBQGYP1ctJtOUG0RIZyFGshHOriaKct8nSJipLjZSuWwdhURL2I6BICxe4GVuMrpjnZqD8RncQ==",
+  "dgSpecHash": "GXWY4NPvq8iebYo5SYlG2J2eM//EMJrdLf0XS8+kFewmOG4UXNRF2q/crbAZlpEfHe//zqWHOa0RckPoUz7atw==",
   "success": true,
   "projectFilePath": "C:\\dev\\dominando-testes-software\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
@@ -111,6 +111,7 @@
     "C:\\Users\\Jvito\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\Jvito\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\Jvito\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\xunit.runner.console\\2.4.1\\xunit.runner.console.2.4.1.nupkg.sha512",
     "C:\\Users\\Jvito\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
   "logs": []
