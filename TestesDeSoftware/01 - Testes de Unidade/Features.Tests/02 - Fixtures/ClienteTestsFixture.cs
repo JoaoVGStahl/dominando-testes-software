@@ -14,10 +14,10 @@ namespace Features.Tests
         {
             var cliente = new Cliente(
                 Guid.NewGuid(),
-                "João",
-                "Girardi",
+                "Eduardo",
+                "Pires",
                 DateTime.Now.AddYears(-30),
-                "joao.girardi@pontosys.com",
+                "edu@edu.com",
                 true,
                 DateTime.Now);
 
@@ -31,7 +31,7 @@ namespace Features.Tests
                 "",
                 "",
                 DateTime.Now,
-                "joao.girardi2pontosys.com",
+                "edu2edu.com",
                 true,
                 DateTime.Now);
 

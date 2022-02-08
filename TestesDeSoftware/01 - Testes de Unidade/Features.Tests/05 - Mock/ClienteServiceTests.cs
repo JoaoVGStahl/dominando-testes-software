@@ -66,7 +66,7 @@ namespace Features.Tests
             var mediatr = new Mock<IMediator>();
 
             clienteRepo.Setup(c => c.ObterTodos())
-                .Returns(_clienteTestsBogus.ObterClientesVariados(10));
+                .Returns(_clienteTestsBogus.ObterClientesVariados());
 
             var clienteService = new ClienteService(clienteRepo.Object, mediatr.Object);
 

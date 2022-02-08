@@ -63,7 +63,7 @@ namespace Features.Tests
             var clienteService = mocker.CreateInstance<ClienteService>();
 
             mocker.GetMock<IClienteRepository>().Setup(c => c.ObterTodos())
-                .Returns(_clienteTestsBogus.ObterClientesVariados(10));
+                .Returns(_clienteTestsBogus.ObterClientesVariados());
 
             // Act
             var clientes = clienteService.ObterTodosAtivos();

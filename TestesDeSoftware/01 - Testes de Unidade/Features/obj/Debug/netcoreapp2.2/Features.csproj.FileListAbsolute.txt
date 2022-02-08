@@ -1,0 +1,10 @@
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.AssemblyReference.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.pdb

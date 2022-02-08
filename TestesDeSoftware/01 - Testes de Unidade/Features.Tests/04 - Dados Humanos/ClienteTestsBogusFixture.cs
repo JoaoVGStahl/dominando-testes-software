@@ -19,12 +19,12 @@ namespace Features.Tests
             return GerarClientes(1, true).FirstOrDefault();
         }
 
-        public IEnumerable<Cliente> ObterClientesVariados(int quantidade)
+        public IEnumerable<Cliente> ObterClientesVariados()
         {
             var clientes = new List<Cliente>();
 
-            clientes.AddRange(GerarClientes(quantidade, true).ToList());
-            clientes.AddRange(GerarClientes(quantidade, false).ToList());
+            clientes.AddRange(GerarClientes(50, true).ToList());
+            clientes.AddRange(GerarClientes(50, false).ToList());
 
             return clientes;
         }
@@ -33,7 +33,7 @@ namespace Features.Tests
         {
             var genero = new Faker().PickRandom<Name.Gender>();
 
-            //var email = new Faker().Internet.Email("joao","girardi","pontosys");
+            //var email = new Faker().Internet.Email("eduardo","pires","gmail");
             //var clientefaker = new Faker<Cliente>();
             //clientefaker.RuleFor(c => c.Nome, (f, c) => f.Name.FirstName());
 

@@ -38,6 +38,7 @@ namespace Demo
         {
             var habilidadesBasicas = new List<string>()
             {
+                
                 "Lógica de Programação",
                 "OOP"
             };

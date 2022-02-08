@@ -15,7 +15,7 @@ namespace Demo.Tests
         public void Funcionario_Salario_FaixasSalariaisDevemRespeitarNivelProfissional(double salario)
         {
             // Arrange & Act
-            var funcionario = new Funcionario("João", salario);
+            var funcionario = new Funcionario("Eduardo", salario);
 
             // Assert
             if (funcionario.NivelProfissional == NivelProfissional.Junior)

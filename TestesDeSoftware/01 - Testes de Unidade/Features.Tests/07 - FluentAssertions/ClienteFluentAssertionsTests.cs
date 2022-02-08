@@ -52,7 +52,6 @@ namespace Features.Tests
             //Assert.NotEqual(0, cliente.ValidationResult.Errors.Count);
 
             // Assert 
-            // Alterar de 1 para 15
             result.Should().BeFalse();
             cliente.ValidationResult.Errors.Should().HaveCountGreaterOrEqualTo(1, "deve possuir erros de validação");
 

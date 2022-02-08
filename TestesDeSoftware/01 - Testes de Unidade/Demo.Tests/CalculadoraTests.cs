@@ -5,7 +5,7 @@ using Xunit;
 
 namespace Demo.Tests
 {
-    public class CalculadoraTests
+    public class CalculadoraTestes
     {
         [Fact]
         public void Calculadora_Somar_RetornarValorSoma()
