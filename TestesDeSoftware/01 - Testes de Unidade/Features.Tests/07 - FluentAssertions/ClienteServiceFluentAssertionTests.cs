@@ -53,7 +53,7 @@ namespace Features.Tests
             _clienteService.Adicionar(cliente);
 
             // Assert
-            Assert.False(cliente.EhValido());
+            //Assert.False(cliente.EhValido());
 
             // Assert
             cliente.EhValido().Should().BeFalse("Possui inconsistências");
@@ -84,6 +84,7 @@ namespace Features.Tests
 
             _clienteTestsAutoMockerFixture.Mocker.GetMock<IClienteRepository>().Verify(r => r.ObterTodos(), Times.Once);
 
+            // O correto é este teste estar nos testes de integração!
             _clienteService.ExecutionTimeOf(c=>c.ObterTodosAtivos())
                 .Should()
                 .BeLessOrEqualTo(50.Milliseconds(),
