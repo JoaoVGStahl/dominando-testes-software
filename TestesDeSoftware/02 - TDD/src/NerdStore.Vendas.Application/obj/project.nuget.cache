@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jxjnu7sNFvMGk45EtJ3LwocFXWj+UQZAWYEP1nU581a7Vyk4knid8/XtgRITRDuShaMx7t72Rn1Y0n/fnuptHA==",
+  "dgSpecHash": "XdGYyJYUIkBHd19tzpbeeYDHkSHYc9xLMNG/rd4Zg0gkPLu3fJ00VmrRHf+Ve7Vch2YD03kqckoHT/G4p0misg==",
   "success": true,
   "projectFilePath": "C:\\dev\\dominando-testes-software\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
   "expectedPackageFiles": [

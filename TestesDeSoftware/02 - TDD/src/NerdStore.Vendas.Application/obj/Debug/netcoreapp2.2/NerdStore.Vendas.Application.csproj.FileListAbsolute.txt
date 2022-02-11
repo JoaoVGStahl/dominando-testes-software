@@ -1,0 +1,15 @@
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.deps.json
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb

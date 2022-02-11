@@ -1,0 +1,22 @@
+C:\Users\Jvito\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-03 - Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.AssemblyReference.cache
+C:\Users\Jvito\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-03 - Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jvito\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-03 - Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\Users\Jvito\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-03 - Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfo.cs
+C:\Users\Jvito\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-03 - Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.deps.json
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.AssemblyReference.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfo.cs
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.CopyComplete
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+C:\dev\dominando-testes-software\TestesDeSoftware\03 - Testes de Integracao\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb

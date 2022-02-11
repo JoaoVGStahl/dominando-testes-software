@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\dominando-testes-software\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -40,10 +43,6 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "dependencies": {
-            "Mediatr": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -53,6 +52,10 @@
             "fluentvalidation": {
               "target": "Package",
               "version": "[8.4.0, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -78,6 +81,9 @@
         "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\dominando-testes-software\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -142,6 +148,9 @@
         "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\dominando-testes-software\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Vendas.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -207,6 +216,9 @@
         "packagesPath": "C:\\Users\\Jvito\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\dominando-testes-software\\TestesDeSoftware\\02 - TDD\\tests\\NerdStore.Vendas.Application.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Jvito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

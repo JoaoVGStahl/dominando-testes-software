@@ -6,7 +6,6 @@ namespace NerdStore.Vendas.Domain.Tests
 {
     public class PedidoTests
     {
-        
         [Fact(DisplayName = "Adicionar Item Novo Pedido")]
         [Trait("Categoria", "Vendas - Pedido")]
         public void AdicionarItemPedido_NovoPedido_DeveAtualizarValor()
@@ -21,7 +20,6 @@ namespace NerdStore.Vendas.Domain.Tests
             // Assert
             Assert.Equal(200,pedido.ValorTotal);
         }
-        
 
         [Fact(DisplayName = "Adicionar Item Pedido Existente")]
         [Trait("Categoria", "Vendas - Pedido")]

@@ -45,7 +45,47 @@
       "ProjectGuid": "a229c7ab-0e6d-42eb-bf27-44332bd3dc6a",
       "DisplayName": "NerdStore.Core",
       "ColorIndex": 7
+    },
+    "f4baec20-5a5e-4699-99a8-b78b9e2fbe13": {
+      "ProjectGuid": "f4baec20-5a5e-4699-99a8-b78b9e2fbe13",
+      "DisplayName": "NerdStore.Vendas.Domain",
+      "ColorIndex": 8
+    },
+    "ede550fe-d7c1-45a8-865b-39b0166ab905": {
+      "ProjectGuid": "ede550fe-d7c1-45a8-865b-39b0166ab905",
+      "DisplayName": "NerdStore.Vendas.Domain.Tests",
+      "ColorIndex": 9
+    },
+    "b78283a2-272c-4a09-bc6b-a16cdacfca6b": {
+      "ProjectGuid": "b78283a2-272c-4a09-bc6b-a16cdacfca6b",
+      "DisplayName": "03 - Testes de Integração",
+      "ColorIndex": 10
+    },
+    "15de5066-7317-424b-aaea-90e2453eee3a": {
+      "ProjectGuid": "15de5066-7317-424b-aaea-90e2453eee3a",
+      "DisplayName": "NerdStore.Catalogo.Domain",
+      "ColorIndex": 11
+    },
+    "aee5cf57-16bd-4305-a3ce-243003664f9e": {
+      "ProjectGuid": "aee5cf57-16bd-4305-a3ce-243003664f9e",
+      "DisplayName": "NerdStore.WebApp.MVC",
+      "ColorIndex": 12
+    },
+    "4785f805-7d6e-4c76-81ed-c72f976f6662": {
+      "ProjectGuid": "4785f805-7d6e-4c76-81ed-c72f976f6662",
+      "DisplayName": "NerdStore.WebApp.Tests",
+      "ColorIndex": 13
+    },
+    "c62ba8cc-0a0a-4114-9a88-3598a18c7e48": {
+      "ProjectGuid": "c62ba8cc-0a0a-4114-9a88-3598a18c7e48",
+      "DisplayName": "NerdStore.Catalogo.Application",
+      "ColorIndex": 14
+    },
+    "47e93195-fa6f-445d-816e-044eb73995c9": {
+      "ProjectGuid": "47e93195-fa6f-445d-816e-044eb73995c9",
+      "DisplayName": "NerdStore.BDD.Tests",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 0
 }
